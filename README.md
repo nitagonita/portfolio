@@ -38,7 +38,7 @@ Mencoba resep baru menjadi cara saya untuk bereksperimen, melatih ketelitian, da
 ## Kontak
 
 - 📧 Email: donita.kwek@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/gonita--6072b0bb/
+- 💼 LinkedIn: [linkedin.com/in/gonita-6072b0bb/
 - 🖥 GitHub: [(https://github.com/nitagonita))  
   
 
