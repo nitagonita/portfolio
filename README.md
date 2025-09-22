@@ -1,6 +1,6 @@
 # Gonita 
 
-![Banner}(assets/profile-banner.jpeg)
+<img src="assets/profile-banner.jpeg" alt="Banner" width="1200" height="600"/>
 
 Selamat datang di portfolio saya!  
 Saya seorang **Engineer Teknik Sipil & Construction Project Manager** yang berfokus pada manajemen proyek, real estate, industrial, dan komersial.
