@@ -1,57 +1,67 @@
-# Gonita
+# Gonita 
+
+![Profile Banner](https://placehold.co/1200x200/png)
 
 Selamat datang di portfolio saya!  
 Saya seorang **Engineer Teknik Sipil & Construction Project Manager** yang berfokus pada manajemen proyek, real estate, industrial, dan komersial.
 
+---
+
 ## Tentang Saya
+Saya memiliki pengalaman lebih dari 15 tahun di bidang **manajemen proyek konstruksi**, mulai dari perencanaan biaya, penjadwalan, hingga penyelesaian proyek multi-juta dolar.  
+Latar belakang pendidikan saya: **Teknik Sipil - Universitas Gadjah Mada**, dan melanjutkan studi di **Hunter College, New York**.
 
-Saya memiliki pengalaman lebih dari **15 tahun** di bidang manajemen proyek konstruksi, mulai dari perencanaan biaya, penjadwalan, hingga penyelesaian proyek multi-juta dolar.  
-Latar belakang pendidikan saya adalah **Teknik Sipil - Universitas Gadjah Mada**, dan saya juga pernah melanjutkan studi di **Hunter College, New York**.  
+Biasa bekerja dengan tim lintas divisi, berkoordinasi dengan arsitek, kontraktor, hingga pejabat lokal, memastikan proyek selesai tepat waktu dan sesuai anggaran.
 
-Saya terbiasa bekerja dengan tim lintas divisi, berkoordinasi dengan arsitek, kontraktor, hingga pejabat lokal, serta memastikan proyek selesai tepat waktu dan sesuai anggaran.  
+---
 
-## Keahlian
+## Keahlian & Badge
 
-- Manajemen Proyek Konstruksi (Industrial, Residential, Commercial)  
-- Estimasi & Pengendalian Biaya Proyek  
-- Negosiasi Kontrak & Pembelian Material  
-- Kepatuhan Kode Bangunan & Regulasi  
-- Site Management & Laporan Proyek  
-- Bahasa: Indonesia, Inggris, Mandarin  
+- **Manajemen Proyek Konstruksi** ![Project Management](https://img.shields.io/badge/Project_Management-Expert-green)
+- **Estimasi & Pengendalian Biaya** ![Cost Estimation](https://img.shields.io/badge/Cost_Estimation-Advanced-blue)
+- **Negosiasi & Kontrak** ![Negotiation](https://img.shields.io/badge/Negotiation-Advanced-orange)
+- **Site Management & Laporan Proyek** ![Site Management](https://img.shields.io/badge/Site_Management-Expert-red)
+- Bahasa: Indonesia, Inggris, Mandarin
 
-## Proyek
+---
 
-### Kawasan Bintang Industrial Park II
-Mengelola pembangunan kawasan industri seluas 70 hektar, termasuk infrastruktur utama dan bangunan industri.
+## Proyek Utama
 
-### Ocarina & Ocarina Waterpark
-Memimpin pengembangan taman hiburan dan waterpark di Batam, selesai tepat waktu dan sesuai anggaran.
+| Proyek | Deskripsi | Gambar |
+|--------|-----------|--------|
+| Kawasan Bintang Industrial Park II | Mengelola pembangunan kawasan industri seluas 70 hektar, termasuk infrastruktur utama dan bangunan industri | ![Kawasan Bintang](https://placehold.co/300x200/png) |
+| Ocarina & Ocarina Waterpark | Memimpin pengembangan taman hiburan dan waterpark di Batam, selesai tepat waktu dan sesuai anggaran | ![Ocarina Waterpark](https://placehold.co/300x200/png) |
+| Gedung Universitas (UIB) | Mengawasi pembangunan kampus universitas, berhasil menyelesaikan proyek dengan penghematan 10% dari anggaran | ![Gedung Universitas](https://placehold.co/300x200/png) |
 
-### Gedung Universitas (UIB)
-Mengawasi pembangunan kampus universitas, berhasil menyelesaikan proyek dengan penghematan 10% dari anggaran.
+---
+## Quote Profesional
+> "Kualitas dan ketepatan waktu adalah prioritas utama dalam setiap proyek."
 
+> "Selalu utamakan keselamatan dan kualitas di setiap tahap proyek."
+
+> "Kolaborasi tim adalah kunci keberhasilan proyek konstruksi."
+---
 ## Hobi & Minat
+Selain konstruksi, saya menikmati **baking & eksperimen resep baru**.  
+Melatih ketelitian, kreativitas, dan inspirasi baru.
 
-Di luar dunia konstruksi, saya senang menyalurkan kreativitas melalui **baking**.  
-Mencoba resep baru menjadi cara saya untuk bereksperimen, melatih ketelitian, dan menemukan inspirasi baru.  
+---
+## Checklist Keahlian
+- [x] Manajemen Proyek
+- [x] Koordinasi Departemen Terkait
+- [x] Kontrol Anggara
+- [x] Site Management
+---
 
 ## Kontak
+📧 Email: donita.kwek@gmail.com  
+💼 LinkedIn: [LinkedIn Gonita](https://www.linkedin.com/in/gonita-6072b0bb/)  
+🖥 GitHub: [GitHub Gonita](https://github.com/nitagonita)  
 
-- 📧 Email: donita.kwek@gmail.com  
-- 💼 LinkedIn: [(https://www.linkedin.com/in/gonita-6072b0bb/)]
-- 🖥 GitHub: [(https://github.com/nitagonita)]
+---
 
-  ```javascript
-// Menghitung volume beton balok
-function hitungVolumeBalok(panjang, lebar, tinggi) {
-  return panjang * lebar * tinggi;
-}
 
-// Contoh: panjang = 6m, lebar = 0.3m, tinggi = 0.5m
-const volume = hitungVolumeBalok(6, 0.3, 0.5);
 
-console.log("Volume beton balok adalah:", volume, "m3");
-```
 
   
 
