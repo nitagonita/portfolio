@@ -1,6 +1,6 @@
 # Gonita 
 
-![Profile Banner](https://placehold.co/1200x200/png)
+![Banner}(./assets/profile-banner.jpeg)
 
 Selamat datang di portfolio saya!  
 Saya seorang **Engineer Teknik Sipil & Construction Project Manager** yang berfokus pada manajemen proyek, real estate, industrial, dan komersial.
