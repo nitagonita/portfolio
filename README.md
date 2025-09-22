@@ -29,9 +29,9 @@ Biasa bekerja dengan tim lintas divisi, berkoordinasi dengan arsitek, kontraktor
 
 | Proyek | Deskripsi | Gambar |
 |--------|-----------|--------|
-| Kawasan Bintang Industrial Park II | Mengelola pembangunan kawasan industri seluas 70 hektar, termasuk infrastruktur utama dan bangunan industri | ![Kawasan Bintang](https://placehold.co/300x200/png) |
-| Ocarina & Ocarina Waterpark | Memimpin pengembangan taman hiburan dan waterpark di Batam, selesai tepat waktu dan sesuai anggaran | ![Ocarina Waterpark](https://placehold.co/300x200/png) |
-| Gedung Universitas (UIB) | Mengawasi pembangunan kampus universitas, berhasil menyelesaikan proyek dengan penghematan 10% dari anggaran | ![Gedung Universitas](https://placehold.co/300x200/png) |
+| Kawasan Bintang Industrial Park II | Mengelola pembangunan kawasan industri seluas 70 hektar, termasuk infrastruktur utama dan bangunan industri | <img src="assets/kawasan-bintang.jpeg" alt="Kawasan Bintang" width="300"/> |
+| Ocarina & Ocarina Waterpark | Memimpin pengembangan taman hiburan dan waterpark di Batam, selesai tepat waktu dan sesuai anggaran | <img src="assets/ocarina.jpeg" alt="Ocarina Waterpark" width="300"/>|
+| Gedung Universitas (UIB) | Mengawasi pembangunan kampus universitas, berhasil menyelesaikan proyek dengan penghematan 10% dari anggaran | <img src="assets/uib.jpeg" alt="Gedung Universitas" height="150" width="300"/> |
 
 ---
 ## Quote Profesional
