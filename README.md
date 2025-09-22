@@ -40,6 +40,19 @@ Mencoba resep baru menjadi cara saya untuk bereksperimen, melatih ketelitian, da
 - 📧 Email: donita.kwek@gmail.com  
 - 💼 LinkedIn: [(https://www.linkedin.com/in/gonita-6072b0bb/)]
 - 🖥 GitHub: [(https://github.com/nitagonita)]
+
+  ```javascript
+// Menghitung volume beton balok
+function hitungVolumeBalok(panjang, lebar, tinggi) {
+  return panjang * lebar * tinggi;
+}
+
+// Contoh: panjang = 6m, lebar = 0.3m, tinggi = 0.5m
+const volume = hitungVolumeBalok(6, 0.3, 0.5);
+
+console.log("Volume beton balok adalah:", volume, "m3");
+```
+
   
 
 
